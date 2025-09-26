@@ -1,2 +1,2 @@
 # hello-github
-practice repo for lesson
+This is my first edit on GitHub!
